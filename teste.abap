@@ -1,3 +1,3 @@
-reprot teste_abap.
+REPORT.
 
-write: 'teste_abap'.
+WRITE: / 'Corrigido'.
